@@ -2,8 +2,6 @@
 
 ## Rasyid Sabillillah IT-0202 (1202190009)
 
-****
-
 **1. Download ISO Installer Windows Server 2022**
 
 - Kunjungi situs https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
